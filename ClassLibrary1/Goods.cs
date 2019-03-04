@@ -19,5 +19,9 @@ namespace ClassLibrary1
             this.ExpDate = new DateTime(years, months, days);
         }
 
+        public override string ToString()
+        {
+            return this.Name + " " + this.Price + " " + this.Weight;
+        }
     }
 }
