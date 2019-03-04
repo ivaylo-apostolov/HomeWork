@@ -1,0 +1,9 @@
+D:\Ivo\SoftServe\QA Academy\C#\Market\Market\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary.deps.json
+D:\Ivo\SoftServe\QA Academy\C#\Market\Market\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary.dll
+D:\Ivo\SoftServe\QA Academy\C#\Market\Market\ClassLibrary1\bin\Debug\netstandard2.0\ClassLibrary.pdb
+D:\Ivo\SoftServe\QA Academy\C#\Market\Market\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary.csprojAssemblyReference.cache
+D:\Ivo\SoftServe\QA Academy\C#\Market\Market\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftServe\QA Academy\C#\Market\Market\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfoInputs.cache
+D:\Ivo\SoftServe\QA Academy\C#\Market\Market\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary.AssemblyInfo.cs
+D:\Ivo\SoftServe\QA Academy\C#\Market\Market\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary.dll
+D:\Ivo\SoftServe\QA Academy\C#\Market\Market\ClassLibrary1\obj\Debug\netstandard2.0\ClassLibrary.pdb

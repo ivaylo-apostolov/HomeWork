@@ -1,0 +1,14 @@
+D:\Ivo\SoftServe\QA Academy\C#\Market\Market\Market\obj\Debug\netcoreapp2.1\Market.csprojAssemblyReference.cache
+D:\Ivo\SoftServe\QA Academy\C#\Market\Market\Market\obj\Debug\netcoreapp2.1\Market.csproj.CoreCompileInputs.cache
+D:\Ivo\SoftServe\QA Academy\C#\Market\Market\Market\obj\Debug\netcoreapp2.1\Market.AssemblyInfoInputs.cache
+D:\Ivo\SoftServe\QA Academy\C#\Market\Market\Market\obj\Debug\netcoreapp2.1\Market.AssemblyInfo.cs
+D:\Ivo\SoftServe\QA Academy\C#\Market\Market\Market\bin\Debug\netcoreapp2.1\Market.deps.json
+D:\Ivo\SoftServe\QA Academy\C#\Market\Market\Market\bin\Debug\netcoreapp2.1\Market.runtimeconfig.json
+D:\Ivo\SoftServe\QA Academy\C#\Market\Market\Market\bin\Debug\netcoreapp2.1\Market.runtimeconfig.dev.json
+D:\Ivo\SoftServe\QA Academy\C#\Market\Market\Market\bin\Debug\netcoreapp2.1\Market.dll
+D:\Ivo\SoftServe\QA Academy\C#\Market\Market\Market\bin\Debug\netcoreapp2.1\Market.pdb
+D:\Ivo\SoftServe\QA Academy\C#\Market\Market\Market\obj\Debug\netcoreapp2.1\Market.csproj.CopyComplete
+D:\Ivo\SoftServe\QA Academy\C#\Market\Market\Market\obj\Debug\netcoreapp2.1\Market.dll
+D:\Ivo\SoftServe\QA Academy\C#\Market\Market\Market\obj\Debug\netcoreapp2.1\Market.pdb
+D:\Ivo\SoftServe\QA Academy\C#\Market\Market\Market\bin\Debug\netcoreapp2.1\Library.dll
+D:\Ivo\SoftServe\QA Academy\C#\Market\Market\Market\bin\Debug\netcoreapp2.1\Library.pdb
